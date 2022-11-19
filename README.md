@@ -1,8 +1,22 @@
-# 记录我的算法学习-By:AsanoSaki（建议用PDF）
+# 记录我的算法学习-By: AsanoSaki
 
 ## CONTENTS
 
-[TOC]
+- [记录我的算法学习-By: AsanoSaki](#记录我的算法学习-by-asanosaki)
+  - [CONTENTS](#contents)
+  - [AcWing算法基础课](#acwing算法基础课)
+  - [AcWing算法提高课](#acwing算法提高课)
+    - [动态规划](#动态规划)
+    - [搜索](#搜索)
+    - [图论](#图论)
+    - [高级数据结构](#高级数据结构)
+    - [数学知识](#数学知识)
+    - [基础算法](#基础算法)
+  - [AcWing蓝桥杯辅导课](#acwing蓝桥杯辅导课)
+  - [AcWing](#acwing)
+  - [CodeForces](#codeforces)
+  - [洛谷](#洛谷)
+  - [PTA](#pta)
 
 ## AcWing算法基础课
 
@@ -25,7 +39,7 @@
 
 ### 搜索
 
-- [搜索-Flood Fill](./AcWing算法提高课/搜索-Flood Fill.pdf)
+- [搜索-Flood_Fill](./AcWing算法提高课/搜索-Flood_Fill.pdf)
 - [搜索-最短路模型](./AcWing算法提高课/搜索-最短路模型.pdf)
 - [搜索-多源BFS](./AcWing算法提高课/搜索-多源BFS.pdf)
 - [搜索-最小步数模型](./AcWing算法提高课/搜索-最小步数模型.pdf)
